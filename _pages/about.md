@@ -1,3 +1,10 @@
+permalink	title	excerpt	author_profile	redirect_from
+/
+About me
+true
+/about/
+/about.html
+
 I'm an assistant professor in the [Department of Computer Science](https://www.cs.pitt.edu/) at the University of Pittsburgh. I'm also affiliated with the [ISP program](https://www.isp.pitt.edu/about) at [SCI](https://www.sci.pitt.edu/). Before joining Pitt, I spend one year as a young investigator work with the [AI2 Mosaic team](https://mosaic.allenai.org/). I defended my PhD at [UMass Amherst](https://www.cics.umass.edu/) working in [IESL](http://www.iesl.cs.umass.edu/) with my advisor [Andrew McCallum](http://people.cs.umass.edu/~mccallum/)in August 2022.
 
 **My research interests** are at the intersection of natural language processing and machine learning. In particular, I'm interested in
