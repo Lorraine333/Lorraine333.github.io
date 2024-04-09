@@ -21,7 +21,7 @@ repository               : "Lorraine333/Lorraine333.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio.jpg"
   name             : "Xiang Lorraine Li"
   pronouns         : "she/her" # example: "she/her"  
   bio              : "Assistant Professor at Pitt"
