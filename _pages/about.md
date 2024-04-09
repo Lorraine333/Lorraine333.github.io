@@ -11,7 +11,7 @@ redirect_from:
 I'm an assistant professor in the [Department of Computer Science](https://www.cs.pitt.edu/) at the University of Pittsburgh. I'm also affiliated with the [ISP program](https://www.isp.pitt.edu/about) at [SCI](https://www.sci.pitt.edu/). Before joining Pitt, I spend one year as a young investigator work with the [AI2 Mosaic team](https://mosaic.allenai.org/). I defended my PhD at [UMass Amherst](https://www.cics.umass.edu/) working in [IESL](http://www.iesl.cs.umass.edu/) with my advisor [Andrew McCallum](http://people.cs.umass.edu/~mccallum/) in August 2022.
 
 **My research interests** are at the intersection of natural language processing and machine learning. In particular, I'm interested in
-1. Understanding model behavior via evaluation benchmark design and exploration around the meaning of model parameters in complex or long-tail situations.
+1. Understand model behavior via evaluation benchmark design and exploration around the meaning of model parameters in complex or long-tail situations.
 2. Understand and evaluate models' ability to perform complex reasoning using atomic knowledge articles. 
 3. I'm interested in applying current LLM techniques in high-impact domains such as law and education.
 My overall research goal is to construct socially responsible, equitable, and robust models that cater to diverse users, populations, cultures, and scenarios.
