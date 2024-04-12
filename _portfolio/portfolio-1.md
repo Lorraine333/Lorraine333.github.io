@@ -1,8 +1,3 @@
----
-layout: archive
-title: "Group"
-permalink: /group/
----
 
 ## PhD students
 - [Joey Hou](https://joeyhou.github.io/)
