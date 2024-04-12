@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Group"
-    url: /portfolio/
+    url: /group/
     
   - title: "Publications"
     url: /publications/
@@ -10,6 +10,6 @@ main:
     url: /teaching/    
     
   - title: "Service"
-    url: /talks/    
+    url: /service/    
 
 
