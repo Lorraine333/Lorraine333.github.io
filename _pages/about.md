@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-
 I'm an assistant professor in the [Department of Computer Science](https://www.cs.pitt.edu/) at the University of Pittsburgh. I'm also affiliated with the [ISP program](https://www.isp.pitt.edu/about) at [SCI](https://www.sci.pitt.edu/). Me and my students actively maintain the [Pitt NLP Seminar](https://pitt-nlp-seminar.github.io/pitt_nlp_seminar_2024/).
 
 **My research interests** are at the intersection of natural language processing and machine learning. In particular, I'm interested in
