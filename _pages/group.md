@@ -17,4 +17,4 @@ permalink: /group/
 - [Arun Balajiee](https://a2un.github.io)
 - [Zhuochun Li](https://zhuochunli.github.io/)
 - [Modhumonty Das](https://www.linkedin.com/in/modhumonty-das-584b621b0/?originalSubdomain=bd)
-- [Yue Wan]
+- Yue Wan
