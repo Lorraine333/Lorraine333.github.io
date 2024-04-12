@@ -13,7 +13,7 @@ I'm an assistant professor in the [Department of Computer Science](https://www.c
 **My research interests** are at the intersection of natural language processing and machine learning. In particular, I'm interested in
 1. Understand model behavior via evaluation benchmark design and exploration around the meaning of model parameters in complex or long-tail situations.
 2. Understand and evaluate models' ability to perform complex reasoning using atomic knowledge articles. 
-3. I'm interested in applying current LLM techniques in high-impact domains such as law and education.
+3. I'm interested in applying current LLM techniques in high-impact domains, such as law and education, to study the model's behavior and limitations.
 My overall research goal is to construct socially responsible, equitable, and robust models that cater to diverse users, populations, cultures, and scenarios.
 
 **Prospective graduate students**: Please apply through the Pitt CS or ISP PhD program and mention my name. Unfortunately, I won't be able to answer individual emails. 
