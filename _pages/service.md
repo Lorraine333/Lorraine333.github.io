@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Service"
-permalink: /sercive/
+permalink: /service/
 ---
 
 - Symposium Organizer: [[Empowering Machine Learning and Large Language Models with Domain and Commonsense Knowledge](https://aaai.org/conference/spring-symposia/sss24/)] (AAAI Make 2024) at AAAI 2024 Spring Symposium Series
