@@ -24,14 +24,14 @@ Please fill in this [form](https://forms.gle/1YUhvYUXn5kSRQw17), specifying your
 Please apply through the Pitt CS or ISP PhD program and mention my name. Unfortunately, I won't be able to answer individual emails. 
 
 **News**:
-- 2024.03 Received funding from Pitt Cyber. Thanks, Pitt Cyber! 
-- 2024.03 Our proposed symposium MAKE is happening at Standard University as part of the 2024 AAAI Spring Symposium Series.
-- 2024.03 Our paper "UNcommonsense Reasoning: Abductive Reasoning about Uncommon Situations" is accepted to NAACL 2024
-- 2024.02: Our paper "Incorporating Geo-Diverse Knowledge into Prompting for Increased Geographical Robustness in Object Recognition" is accepted to CVPR 2024.
-- 2024.01 Our paper "PlaSma: Making Small Language Models Better Procedural Knowledge Models for (Counterfactual) Planning" is accepted to ICLR 2024
-- 2023.10: Our paper "Editing Commonsense Knowledge in GPT." is accepted to EMNLP 2023.
-- 2023.09: Our paper "Faith and Fate: Limits of Transformers on Compositionality" is accepted as a spotlight paper at NeurIPS 2023!
-- 2023.09: I started a tenure track AP position at Pitt.
+- 2024.03: *Received funding from Pitt Cyber. Thanks, Pitt Cyber!*
+- 2024.03: *Our proposed symposium MAKE is happening at Stanford University as part of the 2024 AAAI Spring Symposium Series.*
+- 2024.03: *Our paper "UNcommonsense Reasoning: Abductive Reasoning about Uncommon Situations" is accepted to NAACL 2024.*
+- 2024.02: *Our paper "Incorporating Geo-Diverse Knowledge into Prompting for Increased Geographical Robustness in Object Recognition" is accepted to CVPR 2024.*
+- 2024.01: *Our paper "PlaSma: Making Small Language Models Better Procedural Knowledge Models for (Counterfactual) Planning" is accepted to ICLR 2024.*
+- 2023.10: *Our paper "Editing Commonsense Knowledge in GPT." is accepted to EMNLP 2023.*
+- 2023.09: *Our paper "Faith and Fate: Limits of Transformers on Compositionality" is accepted as a spotlight paper at NeurIPS 2023!*
+- 2023.09: *I started a tenure track AP position at Pitt.*
 
 
 **Past Experiences:** Before joining Pitt, I spend one year as a young investigator work with the [AI2 Mosaic team](https://mosaic.allenai.org/). I defended my PhD at [UMass Amherst](https://www.cics.umass.edu/) working in [IESL](http://www.iesl.cs.umass.edu/) with my advisor [Andrew McCallum](http://people.cs.umass.edu/~mccallum/) in August 2022. During the summer of 2017 and 2018, I worked at Google Mountain View on knowledge graphs, focusing on hierarchical relationships. I spent the summer of 2019 working with the [Bloomberg Data Science Team](https://www.techatbloomberg.com/post-topic/data-science/) on generating test cases for programs with seq2seq models. In 2020, I finished a remote internship at [Meta AI Research](https://ai.facebook.com/), where I focused on multi-hop question answering. Furthermore, I had the opportunity to work remotely with the [DeepMind](https://deepmind.com/) Language Team in 2021, trying to understand commonsense in large language models.
