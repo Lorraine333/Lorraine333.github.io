@@ -26,11 +26,11 @@ Please apply through the Pitt CS or ISP PhD program and mention my name. Unfortu
 **News**:
 - 2024.03 Received funding from Pitt Cyber. Thanks, Pitt Cyber! 
 - 2024.03 Our proposed symposium MAKE is happening at Standard University as part of the 2024 AAAI Spring Symposium Series.
-- 2024.03 Our paper "UNcommonsense Reasoning: Abductive Reasoning about Uncommon Situations" has been accepted to NAACL 2024
-- 2024.02: Our paper "Incorporating Geo-Diverse Knowledge into Prompting for Increased Geographical Robustness in Object Recognition" has been accepted for CVPR 2024.
+- 2024.03 Our paper "UNcommonsense Reasoning: Abductive Reasoning about Uncommon Situations" is accepted to NAACL 2024
+- 2024.02: Our paper "Incorporating Geo-Diverse Knowledge into Prompting for Increased Geographical Robustness in Object Recognition" is accepted to CVPR 2024.
 - 2024.01 Our paper "PlaSma: Making Small Language Models Better Procedural Knowledge Models for (Counterfactual) Planning" is accepted to ICLR 2024
 - 2023.10: Our paper "Editing Commonsense Knowledge in GPT." is accepted to EMNLP 2023.
-- 2023.09: Our paper "Faith and Fate: Limits of Transformers on Compositionality" has been accepted as a spotlight paper at NeurIPS 2023!
+- 2023.09: Our paper "Faith and Fate: Limits of Transformers on Compositionality" is accepted as a spotlight paper at NeurIPS 2023!
 - 2023.09: I started a tenure track AP position at Pitt.
 
 
