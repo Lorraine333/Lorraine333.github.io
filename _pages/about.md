@@ -18,9 +18,9 @@ My overall research goal is to construct socially responsible, equitable, and ro
 
 **Prospective Students**: 
 
-***Pitt Students***
+- Pitt Students
 Please fill in this [form](https://forms.gle/1YUhvYUXn5kSRQw17), specifying your past experiences, and your research interest. We will contact you if there is an oppotunity open.
-***Non-Pitt Students***
+- Non-Pitt Students
 Please apply through the Pitt CS or ISP PhD program and mention my name. Unfortunately, I won't be able to answer individual emails. 
 
 **News**:
