@@ -24,6 +24,7 @@ Please fill in this [form](https://forms.gle/1YUhvYUXn5kSRQw17), specifying your
 Please apply through the Pitt CS or ISP PhD program and mention my name. Unfortunately, I won't be able to answer individual emails. 
 
 **News**:
+- 2024.05: *Our paper "Every Answer Matters: Evaluating Commonsense with Probabilistic Measures" is accepted to ACL 2024.*
 - 2024.03: *Received funding from Pitt Cyber. Thanks, Pitt Cyber!*
 - 2024.03: *Our proposed symposium MAKE is happening at Stanford University as part of the 2024 AAAI Spring Symposium Series.*
 - 2024.03: *Our paper "UNcommonsense Reasoning: Abductive Reasoning about Uncommon Situations" is accepted to NAACL 2024.*
