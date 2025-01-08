@@ -24,6 +24,10 @@ Please fill in this [form](https://forms.gle/1YUhvYUXn5kSRQw17), specifying your
 Please apply through the Pitt CS or ISP PhD program and mention my name. Unfortunately, I won't be able to answer individual emails. 
 
 **News**:
+- 2024.12: *Selected for the AAAI New Faculty Highlights Program 2025.*
+- 2024.12: *Our paper "Improve LLM-based Automatic Essay Scoring with Linguistic Features." is accepted to AAAI iRAISE 2025 as a spotlight paper.*
+- 2024.09: *Our paper "Persuasiveness of Generated Free-Text Rationales in Subjective Decisions: A Case Study on Pairwise Argument Ranking." is accepted to EMNLP Findings 2024.*
+- 2024.09: *Our paper "In Search of the Long-Tail: Systematic Generation of Long-Tail Inferential Knowledge via Logical Rule Guided Search." is accepted to EMNLP 2024.*
 - 2024.05: *Our paper "Every Answer Matters: Evaluating Commonsense with Probabilistic Measures" is accepted to ACL 2024.*
 - 2024.03: *Received funding from Pitt Cyber. Thanks, Pitt Cyber!*
 - 2024.03: *Our proposed symposium MAKE is happening at Stanford University as part of the 2024 AAAI Spring Symposium Series.*
