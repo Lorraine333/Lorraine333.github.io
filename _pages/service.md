@@ -6,7 +6,7 @@ permalink: /service/
 - Workshop Organizer: The 10th workshop on [Representation Learning for NLP](https://sites.google.com/view/repl4nlp2025/) at NAACL 2025
 - Symposium Organizer: [Empowering Machine Learning and Large Language Models with Domain and Commonsense Knowledge](https://aaai.org/conference/spring-symposia/sss24/) (AAAI Make 2024) at AAAI 2024 Spring Symposium Series
 - Action Editor: [European Journal of Language Technology](https://www.nejlt.org/">Northern).
-- Area Chair: [COLM 2025] (https://colmweb.org/index.html)
+- Area Chair: [COLM 2025](https://colmweb.org/index.html)
 - Area Chair: [ARR](https://aclrollingreview.org/) June, October, December 2024.
 - Area Chair: Commonsense Reasoning track at [EMNLP 2023](https://2023.emnlp.org/).
 - Area Chair: Question Answering track at [EMNLP 2022](https://2022.emnlp.org/).
