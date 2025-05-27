@@ -24,6 +24,8 @@ Please fill in this [form](https://forms.gle/1YUhvYUXn5kSRQw17), specifying your
 Please apply through the Pitt CS or ISP PhD program and mention my name. Unfortunately, I won't be able to answer individual emails. 
 
 **News**:
+- 2025.05: *Our paper "Unveiling Confirmation Bias in Chain-of-Thought Reasoning." is accepted to ACL Findings 2025.*
+- 2025.04: *Gave keynote talk at [MASC-SLL](https://www.mascsll.org/) 2025.*
 - 2024.12: *Selected for the AAAI New Faculty Highlights Program 2025.*
 - 2024.12: *Our paper "Improve LLM-based Automatic Essay Scoring with Linguistic Features." is accepted to AAAI iRAISE 2025 as a spotlight paper.*
 - 2024.09: *Our paper "Persuasiveness of Generated Free-Text Rationales in Subjective Decisions: A Case Study on Pairwise Argument Ranking." is accepted to EMNLP Findings 2024.*
