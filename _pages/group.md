@@ -14,6 +14,5 @@ permalink: /group/
 ## Current student collaborators
 - [Alejandro Ciuba](https://alejandrociuba.github.io/)
 - [Arun Balajiee](https://a2un.github.io)
-- [Zhuochun Li](https://zhuochunli.github.io/)
-- Yuelong Xu
-- Yue Wan
+- [Andrew Aquilina](https://andaqu.github.io/) 
+- Shayan Peyghambari
