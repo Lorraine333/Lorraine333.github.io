@@ -13,7 +13,7 @@ permalink: /teaching/
  - CS 3730 Advance topic in Natural Language Processing. [[fall23](https://imminent-honey-ff0.notion.site/CS-3730-Fall-2023-aa264409413a4bb386d670d5cd6e8f78)]
 
 ## Guest Lecture
- - Guest Lecture for Pitt CS 2371 Introduction to Natural Language Processing, Fall 2024.
+ - Guest Lecture for Pitt CS 2371 Introduction to Natural Language Processing, Fall 2024 and Fall 2025.
  - Guest Lecture for UBC CPSC 532V Commonsense Reasoning in Natural Language Processing, Spring 2023.  
  - Guest Lecture for UMass Amherst CS 685 Advanced Natural Language Processing, Fall 2020.
  - Guest Lecture for JHU Computer Science EN.601.464 Artificial Intelligence, Fall 2020.
