@@ -10,7 +10,7 @@ permalink: /group/
 - [Zhuowei Chen](https://johnnychanv.github.io/)
 
 ## Undergrad students
-- Cesar Guerra-Solano
+- [Cesar Guerra-Solano](https://www.linkedin.com/in/cesar-guerra-solano/)
 - [David Teklea](https://www.linkedin.com/in/david-teklea/) -> now MS@Georgia Tech
 
 ## Current student collaborators
