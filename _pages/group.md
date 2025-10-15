@@ -18,5 +18,4 @@ permalink: /group/
 - [Arun Balajiee](https://a2un.github.io)
 - [Andrew Aquilina](https://andaqu.github.io/) 
 - [Shayan Peyghambari](https://www.linkedin.com/in/shayan-peyghambari-002659196/)
-- [Yuchen Dou](https://www.linkedin.com/in/yuchen-dou-2229b129a/)
 - Norah Almousa
