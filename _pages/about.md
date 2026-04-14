@@ -24,13 +24,13 @@ Please fill in this [form](https://forms.gle/1YUhvYUXn5kSRQw17), specifying your
 Please apply through the Pitt CS or ISP PhD program and mention my name. Unfortunately, I won't be able to answer individual emails. 
 
 **News**:
-- 2026.04: César is one of the 2026 NSF GRFP winner! Congrats César!
+- 2026.04: César has been selected as a recipient of the 2026 NSF Graduate Research Fellowship (GRFP), a highly competitive national award. Congrats César!
 - 2026.04: Our paper *"Neuron-Aware Active Few-Shot Learning for LLMs."* is accepted to ACL 2026 Main Conference. Congrats Johnny (Zhuowei)!
 - 2026.03: Our project *"College-level writing dataset"* is a #ToolsCompetition finalist in the Datasets for Education Innovation track! @ToolsCompete is awarding $3+ million this cycle to the next generation of educational tools. Check out all the finalists *[here](https://tools-competition.org/26-finalists)*.
 - 2025.11: Our paper *"MMBERT: Scaled Mixture-of-Experts Multimodal BERT for Robust Chinese Hate Speech Detection under Cloaking Perturbations."* is accepted to AAAI 2026. Congrats Qiyao!
 - 2025.10: Received funding from *Pitt Cyber*. Thanks, Pitt Cyber!
 - 2025.08: Our paper *"Resolving UnderEdit & OverEdit with Iterative & Neighbor-Assisted Model Editing."* is accepted to EMNLP Findings 2025. Congrats Bhiman!
-- 2025.08: Our paper *"Think Globally, Group Locally: Evaluating LLMs Using Multi-Lingual Word Grouping Games."* is accepted to EMNLP Main 2025. Congrats Cesar!
+- 2025.08: Our paper *"Think Globally, Group Locally: Evaluating LLMs Using Multi-Lingual Word Grouping Games."* is accepted to EMNLP Main 2025. Congrats César!
 - 2025.08: Our paper *"Leveraging Large Models for Evaluating Novel Content: A Case Study on Advertisement Creativity."* is accepted to EMNLP Main 2025. Congrats Joey!
 - 2025.06: Received API Credit through *OpenAI Research Access Program*. Thanks OpenAI!
 - 2025.05: Our paper *"Unveiling Confirmation Bias in Chain-of-Thought Reasoning."* is accepted to ACL Findings 2025. Congrats Yue!
