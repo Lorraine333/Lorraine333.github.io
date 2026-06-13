@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an assistant professor in the [Department of Computer Science](https://www.cs.pitt.edu/) at the University of Pittsburgh. I'm also affiliated with the [ISP program](https://www.isp.pitt.edu/about) at [SCI](https://www.sci.pitt.edu/). Me and my students actively maintain the [Pitt NLP Seminar](https://pitt-nlp-seminar.github.io).
+I'm an Assistant Professor in the [Department of Computer Science](https://www.cs.pitt.edu/) at the University of Pittsburgh. I'm also affiliated with the [ISP program](https://www.isp.pitt.edu/about) at [SCI](https://www.sci.pitt.edu/) and serve as a Center Associate at the [Learning Research & Development Center](https://www.lrdc.pitt.edu/) at Pitt. Together with my students, I actively maintain the [Pitt NLP Seminar](https://pitt-nlp-seminar.github.io).
 
 **My research interests** are at the intersection of natural language processing and machine learning. In particular, I'm interested in
 1. Understand model behavior via evaluation benchmark design and exploration around the meaning of model parameters in complex or long-tail situations.
@@ -24,8 +24,12 @@ Please fill in this [form](https://forms.gle/1YUhvYUXn5kSRQw17), specifying your
 Please apply through the Pitt CS or ISP PhD program and mention my name. Unfortunately, I won't be able to answer individual emails. 
 
 **News**:
+- 2026.05: Our paper *"Neuron-Aware Data Selection for Annotation-Free LLM Self-Distillation."* is accepted to ICML Workshop on Decision-Making from Offline Datasets to Online Adaptation: Black-Box Optimization to Reinforcement Learning. Congrats Johnny (Zhuowei)!
+- 2026.05: Our paper *"Rethinking Post-training Diversity Collapse: Is Diversity-preserving Post-training Enough?"* is accepted to ICML Workshop on Human-AI Co-Creativity. Congrats Joey and Johnny!
+- 2026.05: Awarded the Golden Reviewer Award at ICML 2026 (includes free registration). See you in Seoul!
+- 2026.04: Received funding from *Pitt LRDC* and officially appointed as a Center Associate with LRDC. Thanks, LRDC!
 - 2026.04: César has been selected as a recipient of the 2026 NSF Graduate Research Fellowship (GRFP), a highly competitive national award. Congrats César!
-- 2026.04: Our paper *"Neuron-Aware Active Few-Shot Learning for LLMs."* is accepted to ACL 2026 Main Conference. Congrats Johnny (Zhuowei)!
+- 2026.04: Our paper *"Neuron-Aware Active Few-Shot Learning for LLMs."* is accepted to ACL 2026 Main Conference with Oral presentation. Congrats Johnny (Zhuowei)!
 - 2026.03: Our project *"College-level writing dataset"* is a #ToolsCompetition finalist in the Datasets for Education Innovation track! @ToolsCompete is awarding $3+ million this cycle to the next generation of educational tools. Check out all the finalists *[here](https://tools-competition.org/26-finalists)*.
 - 2025.11: Our paper *"MMBERT: Scaled Mixture-of-Experts Multimodal BERT for Robust Chinese Hate Speech Detection under Cloaking Perturbations."* is accepted to AAAI 2026. Congrats Qiyao!
 - 2025.10: Received funding from *Pitt Cyber*. Thanks, Pitt Cyber!
