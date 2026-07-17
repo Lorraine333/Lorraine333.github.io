@@ -24,6 +24,9 @@ Please fill in this [form](https://forms.gle/1YUhvYUXn5kSRQw17), specifying your
 Please apply through the Pitt CS or ISP PhD program and mention my name. Unfortunately, I won't be able to answer individual emails. 
 
 **News**:
+- 2026.07: Our paper *"Whose Assessment of Distress? Community Perspectives and LLM Alignment on Well-Being Posts."* is accepted to ICWSM 2027. Congrats Andrew!
+- 2026.06: Our paper *"CreativityPrism: A Cross-Domain Evaluation Framework for Large Language Model Creativity."* is accepted to TMLR. Congrats Joey!
+- 2026.06: Our project were selected from over 1,400 submissions worldwide to fund by Tools Competition! Collectively, winners were awarded more than $3 million, and all winning tools are projected to impact over 5 million learners and educators by the end of 2026. 
 - 2026.05: Our paper *"Neuron-Aware Data Selection for Annotation-Free LLM Self-Distillation."* is accepted to ICML Workshop on Decision-Making from Offline Datasets to Online Adaptation: Black-Box Optimization to Reinforcement Learning. Congrats Johnny (Zhuowei)!
 - 2026.05: Our paper *"Rethinking Post-training Diversity Collapse: Is Diversity-preserving Post-training Enough?"* is accepted to ICML Workshop on Human-AI Co-Creativity. Congrats Joey and Johnny!
 - 2026.05: Awarded the Golden Reviewer Award at ICML 2026 (includes free registration). See you in Seoul!
