@@ -11,7 +11,7 @@ permalink: /group/
 
 
 ## Undergrad students
-- [César Guerra-Solano](https://www.linkedin.com/in/cesar-guerra-solano/)
+- [César Guerra-Solano](https://cgsol.github.io/) -> now PhD@University of Wisconsin–Madison
 - [Chase Lahner](https://www.linkedin.com/in/chase-lahner/)
 - [David Teklea](https://www.linkedin.com/in/david-teklea/) -> now MS@Georgia Tech
 
