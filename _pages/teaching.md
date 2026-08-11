@@ -8,7 +8,7 @@ permalink: /teaching/
 
 ## Courses
  - CS 2731/ ISSP 2230 Introduction to Natural Language Processing. [[spring25](https://imminent-honey-ff0.notion.site/CS-2731-ISSP-2230-Spring-2025-28d63260b5bd4656af5331b8c66b0c99?pvs=4), [fall26](https://imminent-honey-ff0.notion.site/CS-2731-ISSP-2230-Fall-2026-3b9095127ed68020b9e8c2b948736d9a?pvs=74)]
- - CS 1684/2084 Bias and Ethical Implications in Artificial Intelligence. [fall24, [fall25](https://imminent-honey-ff0.notion.site/CS-1684-2084-Fall-2025-27166af9a07d421891c38afb0634f7b4?source=copy_link)]
+ - CS 1684/2084 Bias and Ethical Implications in Artificial Intelligence. [fall24, [fall25](https://imminent-honey-ff0.notion.site/CS-1684-2084-Fall-2025-27166af9a07d421891c38afb0634f7b4?source=copy_link), [fall26](https://imminent-honey-ff0.notion.site/CS-1684-2084-Fall-2026-3b9095127ed680859d20c5a79404cfc3)]
  - CS 1671/2071 Human Language Technologies. [[spring24](https://imminent-honey-ff0.notion.site/CS-1671-2071-Spring-2024-28d63260b5bd4656af5331b8c66b0c99?pvs=74)]
  - CS 3730 Advance topic in Natural Language Processing. [fall23, [spring26](https://imminent-honey-ff0.notion.site/CS-3730-Spring-2025-2e3095127ed680798aace35a50555148?pvs=74)]
 
