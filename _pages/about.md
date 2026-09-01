@@ -24,6 +24,7 @@ Please fill in this [form](https://forms.gle/1YUhvYUXn5kSRQw17), specifying your
 Please apply through the Pitt CS or ISP PhD program and mention my name. Unfortunately, I won't be able to answer individual emails. 
 
 **News**:
+- 2026.08: Our paper *"Cross-Lingual Activation Steering for Visual-Prior Conflicts."* is accepted to EMNLP Findings 2026. Congrats Yufei!
 - 2026.07: Our paper *"Whose Assessment of Distress? Community Perspectives and LLM Alignment on Well-Being Posts."* is accepted to ICWSM 2027. Congrats Andrew!
 - 2026.06: Our paper *"CreativityPrism: A Cross-Domain Evaluation Framework for Large Language Model Creativity."* is accepted to TMLR. Congrats Joey!
 - 2026.06: Our project were selected from over 1,400 submissions worldwide to fund by Tools Competition! Collectively, winners were awarded more than $3 million, and all winning tools are projected to impact over 5 million learners and educators by the end of 2026. 
