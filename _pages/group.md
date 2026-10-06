@@ -12,7 +12,7 @@ permalink: /group/
 
 ## Undergrad students
 - [César Guerra-Solano](https://cgsol.github.io/) -> now PhD@University of Wisconsin–Madison
-- [Chase Lahner](https://www.linkedin.com/in/chase-lahner/)
+- [Chase Lahner](https://www.linkedin.com/in/chase-lahner/) -> now Assistant AI Security Researcher@CMU
 - [David Teklea](https://www.linkedin.com/in/david-teklea/) -> now MS@Georgia Tech
 
 ## Current PhD student collaborators
