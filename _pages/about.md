@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an Assistant Professor in the [Department of Computer Science](https://www.cs.pitt.edu/) at the University of Pittsburgh. I'm also affiliated with the [ISP program](https://www.isp.pitt.edu/about) at [SCI](https://www.sci.pitt.edu/) and serve as a Center Associate at the [Learning Research & Development Center](https://www.lrdc.pitt.edu/) at Pitt. Together with my students, I actively maintain the [Pitt NLP Seminar](https://pitt-nlp-seminar.github.io).
+I'm an Assistant Professor in the [Department of Computer Science](https://www.cs.pitt.edu/) at the University of Pittsburgh. I'm also affiliated with the [ISP program](https://www.isp.pitt.edu/about) at [SCI](https://www.sci.pitt.edu/) and serve as a Center Associate at the [Learning Research & Development Center](https://www.lrdc.pitt.edu/) at Pitt. I'm also an active member of the [Pitt NLP Group](https://www.nlp.pitt.edu) and we maintain the [Pitt NLP Seminar](https://www.nlp.pitt.edu/#/talks).
 
 **My research interests** are at the intersection of natural language processing and machine learning. In particular, I'm interested in
 1. Understand model behavior via evaluation benchmark design and exploration around the meaning of model parameters in complex or long-tail situations.
@@ -24,6 +24,8 @@ Please fill in this [form](https://forms.gle/1YUhvYUXn5kSRQw17), specifying your
 Please apply through the Pitt CS or ISP PhD program and mention my name. Unfortunately, I won't be able to answer individual emails. 
 
 **News**:
+- 2026.09: Our project were funded by the [K-12 AI Infrastructure Program](https://k12-ai-infrastructure.org/grantees/). Thanks Digital Promise!
+- 2026.09: Out paper *"Persona Non Grata: LLM Persona-Driven Generations in MCQA are Unstable in Distinct Dimensions."* is accepted to AACL 2026. Congrats Cesar!
 - 2026.08: Our paper *"Cross-Lingual Activation Steering for Visual-Prior Conflicts."* is accepted to EMNLP Findings 2026. Congrats Yufei!
 - 2026.07: Our paper *"Whose Assessment of Distress? Community Perspectives and LLM Alignment on Well-Being Posts."* is accepted to ICWSM 2027. Congrats Andrew!
 - 2026.06: Our paper *"CreativityPrism: A Cross-Domain Evaluation Framework for Large Language Model Creativity."* is accepted to TMLR. Congrats Joey!
