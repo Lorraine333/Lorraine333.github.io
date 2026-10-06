@@ -24,7 +24,7 @@ Please fill in this [form](https://forms.gle/1YUhvYUXn5kSRQw17), specifying your
 Please apply through the Pitt CS or ISP PhD program and mention my name. Unfortunately, I won't be able to answer individual emails. 
 
 **News**:
-- 2026.09: Our project were funded by the [K-12 AI Infrastructure Program](https://k12-ai-infrastructure.org/grantees/). Thanks Digital Promise!
+- 2026.09: Our [AI Writing project](https://lorraine333.github.io/essay-project/) were funded by the [K-12 AI Infrastructure Program](https://k12-ai-infrastructure.org/grantees/). Thanks Digital Promise!
 - 2026.09: Out paper *"Persona Non Grata: LLM Persona-Driven Generations in MCQA are Unstable in Distinct Dimensions."* is accepted to AACL 2026. Congrats Cesar!
 - 2026.08: Our paper *"Cross-Lingual Activation Steering for Visual-Prior Conflicts."* is accepted to EMNLP Findings 2026. Congrats Yufei!
 - 2026.07: Our paper *"Whose Assessment of Distress? Community Perspectives and LLM Alignment on Well-Being Posts."* is accepted to ICWSM 2027. Congrats Andrew!
